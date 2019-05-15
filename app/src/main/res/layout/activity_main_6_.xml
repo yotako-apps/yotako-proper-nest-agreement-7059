@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <LinearLayout
+xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:app="http://schemas.android.com/apk/res-auto"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+>
+        <com.yotako.customView.YotakoConstraintLayout
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+>
+            <android.support.constraint.Guideline
+android:id="@+id/faire_une_popup_container_0_guidelines_top8014591d_1f0b_4232_89bd_3fc631ea3965"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="horizontal"
+app:layout_constraintGuide_percent="0.11800000000000001" />
+            <android.support.constraint.Guideline
+android:id="@+id/faire_une_popup_container_0_guidelines_start8014591d_1f0b_4232_89bd_3fc631ea3965"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+app:layout_constraintGuide_percent="0.0533" />
+            <android.support.constraint.Guideline
+android:id="@+id/faire_une_popup_container_0_guidelines_bottom8014591d_1f0b_4232_89bd_3fc631ea3965"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="horizontal"
+app:layout_constraintGuide_percent="0.88552" />
+            <android.support.constraint.Guideline
+android:id="@+id/faire_une_popup_container_0_guidelines_end8014591d_1f0b_4232_89bd_3fc631ea3965"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+app:layout_constraintGuide_percent="0.94663" />
+            <com.yotako.customView.YotakoConstraintLayout
+android:id="@+id/faire_une_popup_container_0_8014591d_1f0b_4232_89bd_3fc631ea3965"
+android:background="#ededed"
+app:borderColor="#707070"
+app:originalWidth="335"
+app:originalHeight="208"
+app:border="1"
+android:layout_width="0dp"
+android:layout_height="0dp"
+android:layout_marginTop="0dp"
+android:layout_marginBottom="0dp"
+android:layout_marginEnd="0dp"
+android:layout_marginStart="0dp"
+app:layout_constraintStart_toStartOf="@+id/faire_une_popup_container_0_guidelines_start8014591d_1f0b_4232_89bd_3fc631ea3965"
+app:layout_constraintTop_toTopOf="@+id/faire_une_popup_container_0_guidelines_top8014591d_1f0b_4232_89bd_3fc631ea3965"
+app:layout_constraintEnd_toEndOf="@+id/faire_une_popup_container_0_guidelines_end8014591d_1f0b_4232_89bd_3fc631ea3965"
+app:layout_constraintBottom_toBottomOf="@+id/faire_une_popup_container_0_guidelines_bottom8014591d_1f0b_4232_89bd_3fc631ea3965">
+                <android.support.constraint.Guideline
+android:id="@+id/faire_une_popup_container_0_text_0_guidelines_topbdf0b7ea_18bd_4f9a_bcde_632cbaacb9b6"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="horizontal"
+app:layout_constraintGuide_percent="0.0288" />
+                <android.support.constraint.Guideline
+android:id="@+id/faire_une_popup_container_0_text_0_guidelines_startbdf0b7ea_18bd_4f9a_bcde_632cbaacb9b6"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+app:layout_constraintGuide_percent="0.0358" />
+                <android.support.constraint.Guideline
+android:id="@+id/faire_une_popup_container_0_text_0_guidelines_bottombdf0b7ea_18bd_4f9a_bcde_632cbaacb9b6"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="horizontal"
+app:layout_constraintGuide_percent="0.9711" />
+                <android.support.constraint.Guideline
+android:id="@+id/faire_une_popup_container_0_text_0_guidelines_endbdf0b7ea_18bd_4f9a_bcde_632cbaacb9b6"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+app:layout_constraintGuide_percent="0.99997" />
+                <com.yotako.customView.YotakoTextView
+android:id="@+id/faire_une_popup_container_0_text_0"
+android:fontFamily="helvetica neue"
+
+android:text="Quae dum ita struuntur, indicatum est apud Tyrum indumentum regale textum occulte, incertum quo locante vel cuius usibus apparatum. ideoque rector provinciae tunc pater Apollinaris eiusdem nominis ut conscius ductus est aliique congregati sunt ex diversis civitatibus multi, qui atrocium criminum ponderibus urgebantur.
+
+" 
+android:textColor="#707070"
+android:textSize="28sp"
+app:autoSizeTextType="none"
+android:textStyle="normal"
+app:originalWidth="323"
+app:originalHeight="196"
+android:gravity="left"
+android:layout_width="0dp"
+android:layout_height="235.2dp"
+android:layout_weight="1"
+app:layout_constraintStart_toStartOf="@+id/faire_une_popup_container_0_text_0_guidelines_startbdf0b7ea_18bd_4f9a_bcde_632cbaacb9b6"
+app:layout_constraintTop_toTopOf="@+id/faire_une_popup_container_0_text_0_guidelines_topbdf0b7ea_18bd_4f9a_bcde_632cbaacb9b6"
+app:layout_constraintEnd_toEndOf="@+id/faire_une_popup_container_0_text_0_guidelines_endbdf0b7ea_18bd_4f9a_bcde_632cbaacb9b6"
+app:layout_constraintBottom_toBottomOf="@+id/faire_une_popup_container_0_text_0_guidelines_bottombdf0b7ea_18bd_4f9a_bcde_632cbaacb9b6" />
+            </com.yotako.customView.YotakoConstraintLayout>
+        </com.yotako.customView.YotakoConstraintLayout>
+    </LinearLayout>
